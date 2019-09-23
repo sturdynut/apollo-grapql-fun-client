@@ -1,0 +1,12 @@
+.container {
+  text-align: center;
+}
+
+.listItem {
+  padding: 1rem;
+  border-bottom: 1px solid #000;
+}
+
+.listItemHighlighted {
+  background-color: red;
+}
